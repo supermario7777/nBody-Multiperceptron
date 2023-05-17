@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="classifier">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Kuzushiji.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fruit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/animals.jar!/" />
+      <root url="jar://$PROJECT_DIR$/digits.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fashion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/music.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
